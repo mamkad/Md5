@@ -1,4 +1,4 @@
-# md5
+# md5 algorithm
 реализация алгоритма хэширования md5
 
 md5 algorithm implementation 
